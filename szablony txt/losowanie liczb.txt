@@ -1,0 +1,9 @@
+====== LOSOWANIE LICZB ======
+#include <ctime>
+#include <cstdlib>
+
+srand((int) time (NULL));
+
+rand() % 100; ///// losowanie 100 liczb od 0 do 99
+
+=============================

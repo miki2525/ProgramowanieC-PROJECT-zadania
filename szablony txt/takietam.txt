@@ -1,0 +1,9 @@
+deklaracja funkcji- podajemy typ, nazwe oraz dane jakie sie przekazuje np. int suma (x, y);
+
+definicja funkcji - to rozwiniecie tej deklaracji czyli co sie w tej funkcji dzieje np.
+int suma (x, y){
+instrukcje
+}
+
+void nazwa_funkcji (x, y) - nie zwraca nic, return nie istnieje, moze tylko np. wyswietlic obliczenia
+=========================================================
